@@ -33,11 +33,11 @@ Since this is a static site, the prerequisites are quite minimal:
 
 ### Installation
 
-1. Clone the repository
+1. Clone the repository -
    git clone https://github.com/abutler911/NorCalGlow.git
-2. Navigate to the project directory
+2. Navigate to the project directory -
    cd NorCalGlow
-3. Open `index.html` in your preferred browser
+3. Open `index.html` in your preferred browser -
    open index.html
 
 ## Contributing
